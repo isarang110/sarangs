@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h2 {
+  color: #8E3200;
+  position: relative;
+  top: 50px;
+  font-family: 'Great Vibes', cursive; font-size: 50px; font-style: italic; font-variant: normal; font-weight: 700; line-height: 38.5px;
+}
+h1 {
+  color: #8E3200;
+  position: relative;
+  top: -100px;
+font-family: 'Great Vibes', cursive; font-size: 100px; font-style: italic; font-variant: normal; font-weight: 700; line-height: 38.5px;
+
+}
+
+p  {
+  color: #A64B2A;
+  position: relative;
+  top: 10px;
+font-family: 'Montserrat', sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px;
+}
+
+.container {
+  background-color: #FFEBC1;
+}
+.uppercloud {
+  max-width: 20%;
+  height: auto;
+top: 20px;
+left: 400px;
+position: relative;
+
+}
+
+.lowercloud {
+  max-width: 20%;
+  height: auto;
+  top: 10px;
+  right: 460px;
+position: relative;
+}
+.boy {
+  max-width: 40%;
+}
+
+.sarang {
+  max-width: 20%;
+  position: relative;
+  top: 50px;
+}
+.middle-container {
+  background-color: #FFEBC1;
+}
